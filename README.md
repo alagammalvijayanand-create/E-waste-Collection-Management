@@ -113,6 +113,3 @@ The project aims to provide an organized and accessible platform for managing el
 
 The E-Waste Collection Management System demonstrates how web development, Java backend technologies, and database integration can be used to address environmental challenges. By digitizing pickup requests and collection tracking, the system provides a foundation for efficient e-waste management and contributes to a cleaner and more sustainable future.
 
-## Disclaimer
-
-This project is an educational prototype. Authentication and authorization should be implemented before using the application with real customer data or deploying it for public use.
